@@ -1,3 +1,8 @@
 hello
 
+<<<<<<< HEAD
 I am in branch
+=======
+
+I am in branch .....from master
+>>>>>>> featureA
